@@ -7,3 +7,5 @@ edit it from the example branch
 
 
 Edited remotely
+
+Changed locally
