@@ -13,3 +13,5 @@ Changed locally
 Change remotee C
 
 Change remote DD
+
+This will create local conflict
